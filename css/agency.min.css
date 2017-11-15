@@ -75,6 +75,12 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #FFAE8D; }
 
+#services p {
+  text-align: left; }
+
+.item-text {
+  text-align: left; }
+
 #mainNav {
   background-color: #212529; }
   #mainNav .navbar-toggler {
